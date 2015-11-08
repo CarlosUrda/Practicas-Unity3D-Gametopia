@@ -1,0 +1,47 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\MotionCamera.cs">
+    <Files>
+      <File FileName="Assets\Code\Bomb.cs" Line="72" Column="37" />
+      <File FileName="Assets\Code\MotionCamera.cs" Line="85" Column="3" />
+      <File FileName="Assets\Code\StatusBot.cs" Line="147" Column="93" />
+      <File FileName="Assets\Code\AttackUser.cs" Line="143" Column="1" />
+      <File FileName="Assets\Code\SimulateFire.cs" Line="156" Column="40" />
+      <File FileName="Assets\Code\Stage.cs" Line="115" Column="36" />
+      <File FileName="Assets\Code\StatusUser.cs" Line="40" Column="1" />
+      <File FileName="Assets\Code\MotionBot.cs" Line="154" Column="1" />
+      <File FileName="Assets\Code\MotionUser.cs" Line="16" Column="1" />
+      <File FileName="Assets\Code\ScreenInterface.cs" Line="49" Column="44" />
+      <File FileName="Assets\Plugins\UIToolkit\UIElements\UITextInstance.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Code" expanded="True">
+                <Node name="MotionCamera.cs" selected="True" />
+              </Node>
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="Assembly-CSharp-firstpass" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Plugins" expanded="True">
+                <Node name="UIToolkit" expanded="True">
+                  <Node name="BaseElements" expanded="True" />
+                  <Node name="Support" expanded="True" />
+                  <Node name="UIElements" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
