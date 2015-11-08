@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Stage.cs">
+    <Files>
+      <File FileName="..\Ejercicio 6\Assets\Code\Interface.cs" Line="17" Column="8" />
+      <File FileName="Assets\Code\Attack.cs" Line="75" Column="81" />
+      <File FileName="Assets\Code\SimulateFire.cs" Line="86" Column="41" />
+      <File FileName="Assets\Code\Bomb.cs" Line="120" Column="30" />
+      <File FileName="Assets\Code\Stage.cs" Line="4" Column="1" />
+      <File FileName="Assets\Code\StatusBot.cs" Line="62" Column="30" />
+      <File FileName="Assets\Code\StatusUser.cs" Line="8" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Code" expanded="True">
+                <Node name="Stage.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
